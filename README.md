@@ -1,1 +1,1 @@
-# cricket-quiz-appp
+simple calculator
